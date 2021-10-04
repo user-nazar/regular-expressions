@@ -1,1 +1,1 @@
-# Laboratorna6
+# Java course
